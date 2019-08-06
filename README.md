@@ -16,3 +16,22 @@ In my capstone project, I aim to answer the following business problems:
 3. Can we determine a channel/medium through which an offer shuld be sent to make it a successful one, given the demographic features of a customer. 
 
 To answer the above stated problems, I will do some EDA of the three datasets given, to familarize with the data. Then, I will preprocess each of the dataset to make them usable. When done with the preprocessing step, will combine the dataset . I will then use the different statistical techniques to analyze the data to find the relevant solutions to the problems I chose to answer. Will use some plots to get better insights from the data.
+
+## Files Description
+
+
+## Installations
+pandas 
+numpy 
+math
+json
+matplotlib.pyplot
+% matplotlib inline
+
+LabelBinarizer
+OneHotEncoder
+MultiLabelBinarizer
+
+
+
+
