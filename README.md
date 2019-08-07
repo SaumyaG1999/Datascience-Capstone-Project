@@ -19,17 +19,15 @@ In my capstone project, I aim to answer the following business problems:
 This repo contains 4 files. The report of my project is called 'Starbucks Capstone Challenge - Using Starbucks app user data to predict effective offers.ipynb'. The data used in the project is in the files portfolio.json, profile.json and transcript.json.
 
 ## Installations
-pandas 
-numpy 
-math
-json
-matplotlib.pyplot
-% matplotlib inline
-
-LabelBinarizer
-OneHotEncoder
-MultiLabelBinarizer
-
+* pandas 
+* numpy 
+* math
+* json
+* matplotlib.pyplot
+* LabelBinarizer
+* OneHotEncoder
+* MultiLabelBinarizer
+* % matplotlib inline
 
 
 
