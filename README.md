@@ -29,5 +29,7 @@ This repo contains 4 files. The report of my project is called 'Starbucks Capsto
 * MultiLabelBinarizer
 * % matplotlib inline
 
+## License And Acknowledgement
+This project uses data provided by Starbucks as part of Udaciy Capstone project.
 
 
